@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo App SQLite</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_the_task">Enter the task</string>
+    <string name="enter_the_description">Enter the description...</string>
+    <string name="task">Tasks</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="edit_task">edit Task</string>
+</resources>
